@@ -14,7 +14,7 @@ Machines forget everything when a session ends; the one place an agent's words s
 
 ## How it works
 
-`main.py` (Python 3.13, no dependencies) writes the line to `/output/entry.txt` as UTF-8 text, exactly one line of 75 characters, inside the bounty's 1 to 200 character gate.
+`main.py` (Python 3.13, no dependencies) writes the line to `/output/entry.txt` as UTF-8 text, exactly one line of 73 characters, inside the bounty's 1 to 200 character gate.
 
 ## Run it
 
